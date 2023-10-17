@@ -11,7 +11,7 @@ byte byte1 ;/// Menyimpan angka dari -128 sampai 127
     short short1 ;/// Menyimpan angka dari -32,768 sampai 32,767
             short1 = 32717;
             
-    long long1 ;/// Menyimpan banyak angka :)
+    long long1 ;/// Menyimpan banyak angka
             long1 = 6230000;
             
     float float1 ;/// Menyimpan angka desimal
